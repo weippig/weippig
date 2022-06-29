@@ -43,4 +43,3 @@ I used to develop using the following techniques/environments：
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?weippig" frameborder="0"></iframe>
