@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/weippig/weippig/blob/output/github-contribution-grid-snake.gif)
 
 
-![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=weippig&theme=vue&show_icons=true)
+![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=weippig&theme=transparent&show_icons=true)
 
 ### Tech Stack
 <p>
