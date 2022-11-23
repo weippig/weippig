@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/ethereum" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/hyperledger" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linux/black" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/kalilinux" />
 <div/>
 <p/>
