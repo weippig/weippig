@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 ![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=weippig&theme=vue&show_icons=true)
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END --> 
+ 
 ### Tech Stack
 <p>
 <div align="center">
