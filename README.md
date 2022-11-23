@@ -3,7 +3,7 @@ Hi there 👋
 
 ![snake gif](https://github.com/weippig/weippig/blob/output/github-contribution-grid-snake.gif)
 
-![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=weippig&theme=vue&show_icons=true) | ![LeetCode Stats](https://leetcard.jacoblin.cool/weippig?theme=light&font=Abel&ext=heatmap)
+![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=weippig&theme=vue&show_icons=true)  ![LeetCode Stats](https://leetcard.jacoblin.cool/weippig?theme=light&font=Abel)
  
 ### Tech Stack
 <p>
