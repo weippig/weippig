@@ -28,6 +28,8 @@ Here are some ideas to get you started:
   <img height="32" width="32" src="https://cdn.simpleicons.org/solidity" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
 <div/>
 <p/>
   
