@@ -18,25 +18,17 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/weippig/weippig/blob/output/github-contribution-grid-snake.gif)
 
- <div style="float:left;">
-    <span style="display:inline;">
-     ![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=weippig&theme=vue&show_icons=true)
-    </span>
-<!--     <span style="display:inline;"> -->
-     ### Blog posts
-     <!-- BLOG-POST-LIST:START -->
-     - [Rust - Lifetime · Wei&#39;s](https://weippig.com/2022/11/23/rust-lifetime.html)
-     - [Module not found Error -  Can&#39;t resolve &#39;crypto&#39; · Wei&#39;s](https://weippig.com/2022/11/23/can-not-resolve-crypto.html)
-     - [Anchor test - Error loading workspace IDL for counter · Wei&#39;s](https://weippig.com/2022/11/22/anchor-error-loading-workspace-idl-for-counter.html)
-     - [Remote Procedure Call · Wei&#39;s](https://weippig.com/2022/11/21/rpc.html)
-     - [Go - map · Wei&#39;s](https://weippig.com/2022/11/19/go-map.html)
-     <!-- BLOG-POST-LIST:END --> 
-<!--     </span> -->
-</div>
+![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=weippig&theme=vue&show_icons=true)
 
 
-
-
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Rust - Lifetime · Wei&#39;s](https://weippig.com/2022/11/23/rust-lifetime.html)
+- [Module not found Error -  Can&#39;t resolve &#39;crypto&#39; · Wei&#39;s](https://weippig.com/2022/11/23/can-not-resolve-crypto.html)
+- [Anchor test - Error loading workspace IDL for counter · Wei&#39;s](https://weippig.com/2022/11/22/anchor-error-loading-workspace-idl-for-counter.html)
+- [Remote Procedure Call · Wei&#39;s](https://weippig.com/2022/11/21/rpc.html)
+- [Go - map · Wei&#39;s](https://weippig.com/2022/11/19/go-map.html)
+<!-- BLOG-POST-LIST:END --> 
  
 ### Tech Stack
 <p>
