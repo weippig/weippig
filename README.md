@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img height="32" width="32" src="https://cdn.simpleicons.org/hyperledger" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/linux/black" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/kalilinux" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/jekyll/black" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/jekyll" />
 <div/>
 <p/>
   
