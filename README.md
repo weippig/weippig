@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=weippig&theme=vue&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weippig)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weippig&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### Tech Stack
 <p>
