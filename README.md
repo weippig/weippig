@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <span style="display:inline;">
      ![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=weippig&theme=vue&show_icons=true)
     </span>
-    <span style="display:inline;">
+<!--     <span style="display:inline;"> -->
      ### Blog posts
      <!-- BLOG-POST-LIST:START -->
      - [Rust - Lifetime · Wei&#39;s](https://weippig.com/2022/11/23/rust-lifetime.html)
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
      - [Remote Procedure Call · Wei&#39;s](https://weippig.com/2022/11/21/rpc.html)
      - [Go - map · Wei&#39;s](https://weippig.com/2022/11/19/go-map.html)
      <!-- BLOG-POST-LIST:END --> 
-    </span>
+<!--     </span> -->
 </div>
 
 
