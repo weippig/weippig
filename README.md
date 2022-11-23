@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=weippig&theme=vue&show_icons=true)
 
 ### Tech Stack
-<img height="32" width="32" src="https://cdn.simpleicons.org/#2932E1/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
