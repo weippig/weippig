@@ -6,7 +6,7 @@ Hi there 👋
 ![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=weippig&theme=vue&show_icons=true) 
  
  
-![LeetCode Stats](https://leetcard.jacoblin.cool/weippig?theme=light&font=Abel)
+![LeetCode Stats](https://leetcard.jacoblin.cool/weippig?theme=light&font=Calibri)
  
 ### Tech Stack
 <p>
