@@ -31,6 +31,11 @@ Here are some ideas to get you started:
   <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
 <div/>
+  <div align="center">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+<div/>
 <p/>
   
 <div/>
