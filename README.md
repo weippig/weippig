@@ -1,6 +1,7 @@
 <div align="center">
 Hi there 👋
 
+![snake gif](https://github.com/weippig/weippig/blob/output/github-contribution-grid-snake.svg)
  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/weippig?theme=light&font=IBM%20Plex%20Sans%20Thai%20Looped)
  
